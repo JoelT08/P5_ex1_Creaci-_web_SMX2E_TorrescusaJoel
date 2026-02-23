@@ -8,7 +8,7 @@
 <body>
     <!-- Capçalera amb imatge -->
     <header>
-        <img src="../imatges/prova1.jpg" alt="Capçalera del web" width="800" height="450">
+        <img src="../imatges/capcalera.jpg" alt="Capçalera del web" width="800" height="150">
         <h1>Pàgina d'enllaços</h1>
     </header>
 
